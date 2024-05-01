@@ -50,7 +50,7 @@ from PIL import Image
 
 # CONFIGURABLE STUFF -------------------------------------------------------
 
-num_leds   = 144         # Length of LED strip, in pixels
+num_leds   = 77         # Length of LED strip, in pixels
 pin_go     = board.D22   # GPIO pin numbers for 'go' button,
 pin_next   = board.D17   # previous image, next image and speed +/-.
 pin_prev   = board.D4    # Buttons should connect from these pins to ground.
